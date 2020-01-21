@@ -1,4 +1,4 @@
-<h1 align="center">dockerstarts</h1>
+<h1 align="center">dockerstats</h1>
 
 <p align="center">
   <em>The easy way to collect docker stats.</em>
